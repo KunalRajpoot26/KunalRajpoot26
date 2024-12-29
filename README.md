@@ -1,7 +1,7 @@
-## Hi! 👋 My nmae is Kunal Rajpoot and I'm a full stack developer.
+## Hi! 👋 My name is Kunal Rajpoot.
 
 
-**KunalRajpoot26/KunalRajpoot26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full stack developer.
 
 Here are some ideas to get you started:
 
