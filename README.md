@@ -32,11 +32,11 @@
 
 <p align="left">
 
-<code><img href="https://en.wikipedia.org/wiki/HTML5#:~:text=HTML5%20(Hypertext%20Markup%20Language%205,as%20the%20HTML%20Living%20Standard." src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
+<code><img href="https://en.wikipedia.org/wiki/HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
 <img href="https://en.wikipedia.org/wiki/CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
 <img href="https://en.wikipedia.org/wiki/JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
 <img href="https://en.wikipedia.org/wiki/React_(software)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React JS" width="50" height="50" />
-<img href="https://en.wikipedia.org/wiki/Tailwind_CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50" />
+<img href="https://en.wikipedia.org/wiki/Tailwind_CSS" src="https://img.icons8.com/?size=48&id=4PiNHtUJVbLs&format=png" alt="Tailwind CSS" width="50" height="50" />
 <img href="https://en.wikipedia.org/wiki/Java_(programming_language)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" />
 
 </code>
@@ -62,7 +62,7 @@
   &emsp;
     <a href="https://en.wikipedia.org/wiki/Eclipse_(software)"><img alt="Eclipse" src="https://img.icons8.com/officel/56/java-eclipse.png" /></a>
     &emsp;
-    <a href="https://en.wikipedia.org/wiki/Postman_(software)"><img alt="Postman" src="https://img.icons8.com/officel/56/java-postman.png" /></a>
+    <a href="https://en.wikipedia.org/wiki/Postman_(software)"><img alt="Postman" src="https://img.icons8.com/?size=64&id=QEQQKirln6Tf&format=png" /></a>
         &emsp;
     <a href="https://en.wikipedia.org/wiki/Selenium_(software)"><img alt="Selenium" src="https://img.icons8.com/?size=50&id=24536&format=png" /></a>
         &emsp;
