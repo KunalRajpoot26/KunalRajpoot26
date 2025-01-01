@@ -32,25 +32,24 @@
 
 <p align="left">
 
-<code><img height="50" src="https://img.icons8.com/?size=512&id=FRRACRKRsw2s&format=png">
-<img height="50" src="https://img.icons8.com/?size=512&id=108784&format=png">
-<img height="50" src="https://img.icons8.com/?size=512&id=8g6WJkjf0vaP&format=png">
-<img height="50" src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png">
-<img height="50" src="https://img.icons8.com/?size=512&id=rY6agKizO9eb&format=png">
-<img height="50" src="https://img.icons8.com/?size=512&id=7gdY5qNXaKC0&format=png">
-<img height="50" src="https://img.icons8.com/?size=512&id=2ZOaTclOqD4q&format=png">
-<img height="45" src="https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_744x750.png">
+<code><img href="https://en.wikipedia.org/wiki/HTML5#:~:text=HTML5%20(Hypertext%20Markup%20Language%205,as%20the%20HTML%20Living%20Standard." src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
+<img href="https://en.wikipedia.org/wiki/CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
+<img href="https://en.wikipedia.org/wiki/JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+<img href="https://en.wikipedia.org/wiki/React_(software)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React JS" width="50" height="50" />
+<img href="https://en.wikipedia.org/wiki/Tailwind_CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50" />
+<img href="https://en.wikipedia.org/wiki/Java_(programming_language)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" />
+
 </code>
 
 ### <code> Software & Tools </code>
 
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.icons8.com/color/56/git.png"></a>
+    <a href="https://en.wikipedia.org/wiki/Git"><img alt="Git" src="https://img.icons8.com/color/56/git.png"></a>
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.icons8.com/nolan/56/github.png"></a>
+    <a href="https://en.wikipedia.org/wiki/GitHub"><img alt="GitHub" src="https://img.icons8.com/nolan/56/github.png"></a>
   &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.icons8.com/color/56/google-sheets.png"></a>
+    <a href="https://en.wikipedia.org/wiki/Canva"><img alt="Google Sheets" src="https://img.icons8.com/color/56/canva.png"></a>
   &emsp;
     <a href="#"><img src="https://img.icons8.com/fluency/56/mysql-logo.png"/></a>
 </p>
@@ -59,24 +58,24 @@
 
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.icons8.com/fluency/56/visual-studio-code-2019.png"></a>
+    <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code"><img alt="Visual Studio Code" src="https://img.icons8.com/fluency/56/visual-studio-code-2019.png"></a>
   &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.icons8.com/officel/56/java-eclipse.png" /></a>
+    <a href="https://en.wikipedia.org/wiki/Eclipse_(software)"><img alt="Eclipse" src="https://img.icons8.com/officel/56/java-eclipse.png" /></a>
     &emsp;
-    <a href="#"><img alt="Postman" src="https://w7.pngwing.com/pngs/28/245/png-transparent-postman-hd-logo-thumbnail.png" /></a>
+    <a href="https://en.wikipedia.org/wiki/Postman_(software)"><img alt="Postman" src="https://img.icons8.com/officel/56/java-postman.png" /></a>
         &emsp;
-    <a href="#"><img alt="Selenium" src="https://e7.pngegg.com/pngimages/175/494/png-clipart-selenium-computer-icons-test-automation-software-testing-selenium-angle-text-thumbnail.png" /></a>
+    <a href="https://en.wikipedia.org/wiki/Selenium_(software)"><img alt="Selenium" src="https://img.icons8.com/?size=50&id=24536&format=png" /></a>
         &emsp;
-    <a href="#"><img alt="Apache" src="https://banner2.cleanpng.com/20180821/hiq/9f7b88ea056260609205d2b1aa78aa96.webp" /></a>
+    <a href="https://en.wikipedia.org/wiki/NetBeans"><img alt="Apache Netbeans" src="https://img.icons8.com/?size=48&id=4djt356tq8UO&format=png" /></a>
 </p>
 
 ### <code> Operating Systems </code>
 
 <p align="center">
   &emsp;
-    <a href="#"><img src="https://img.icons8.com/color/56/ubuntu.png"></a>
+    <a href="https://en.wikipedia.org/wiki/Ubuntu"><img src="https://img.icons8.com/color/56/ubuntu.png"></a>
   &emsp;
-    <a href="#"><img src="https://img.icons8.com/color/56/windows-10.png"></a>
+    <a href="https://en.wikipedia.org/wiki/Microsoft_Windows"><img src="https://img.icons8.com/color/56/windows-10.png"></a>
 </p>
 
 <br>
@@ -87,7 +86,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=KunalRajpoot26&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=DDC846&currStreakNum=DDDDDD" alt="streak image" width=50% height=100%/>
 <img src="https://github-readme-stats.vercel.app/api?username=KunalRajpoot26&show_icons=true&count_private=true&theme=react"  width=47.4% height=100%/>
 
-[![KunalRajpoot26's GitHub | Stats](https://stats.quine.sh/KunalRajpoot26/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=KunalRajpoot26)
+
 
 <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalRajpoot26&theme=react&layout=compact" width="400px" alt="Language stats image" -->
 
